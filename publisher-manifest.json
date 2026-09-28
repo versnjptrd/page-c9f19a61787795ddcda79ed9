@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e565edf6e4a89d70132c74da",
+  "owner": "versnjptrd",
+  "repo": "page-c9f19a61787795ddcda79ed9",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c9f19a61787795ddcda79ed9",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "71fef8a6df6ba3732c2163d9d010e69f9436a186350423b0ff253624f58e8581",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供专业的VPN加速服务，包括多种套餐和客户端下载，支持流媒体解锁和网络加速。",
+          "AI_DESCRIPTION": "龙猫云提供专业的VPN加速服务，包括多种套餐和客户端下载，支持流媒体解锁和网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #6c5ce7;\n            --gray: #f8f9fa;\n            --text: #333;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--gray);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 2rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--primary);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            text-decoration: none;\n            color: var(--text);\n            font-weight: 500;\n        }\n        .nav-links a:hover {\n            color: var(--primary);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n            color: var(--primary);\n        }\n        .hero {\n            text-align: center;\n            padding: 4rem 2rem;\n            background: linear-gradient(to bottom, var(--gray), white);\n        }\n        .hero h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            margin-bottom: 2rem;\n        }\n        .btn {\n            background: var(--primary);\n            color: white;\n            padding: 0.75rem 2rem;\n            border-radius: 30px;\n            text-decoration: none;\n            display: inline-block;\n            font-weight: 600;\n        }\n        .btn:hover {\n            background: #5b4cb3;\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: var(--primary);\n        }\n        .intro, .scenarios, .steps {\n            padding: 2rem;\n            background: white;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .steps ol {\n            display: flex;\n            flex-direction: column;\n            gap: 1.5rem;\n        }\n        .steps li {\n            display: flex;\n            align-items: flex-start;\n            gap: 1rem;\n        }\n        .steps li::before {\n            content: '';\n            width: 30px;\n            height: 30px;\n            background: var(--primary);\n            color: white;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 50%;\n            flex-shrink: 0;\n        }\n        footer {\n            background: #333;\n            color: white;\n            padding: 3rem 2rem;\n            text-align: center;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        @media (max-width: 768px) {\n            .steps li {\n                flex-direction: column;\n                align-items: flex-start;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">龙猫云</div>\n            <div class=\"nav-links\">\n                <a href=\"#intro\">关于我们</a>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#steps\">使用步骤</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#clients\">客户端</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>龙猫云</h1>\n            <p>VPN 加速器 | 机场订阅 | 客户端下载</p>\n            <a href=\"#clients\" class=\"btn\">立即选择客户端</a>\n        </section>\n        <section id=\"intro\" class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>龙猫云是一款专注于提供VPN服务的品牌。我们致力于为用户带来便捷、高效的网络连接体验。</p>\n        </section>\n        <section id=\"scenarios\" class=\"intro\">\n            <h2>使用场景</h2>\n            <p>龙猫云适用于以下场景：</p>\n            <ul>\n                <li>家庭网络加速与优化</li>\n                <li>旅行出差时的安全上网</li>\n                <li>流媒体内容观看与解锁</li>\n                <li>办公远程访问</li>\n                <li>多设备同步使用</li>\n            </ul>\n        </section>\n        <section id=\"steps\" class=\"intro\">\n            <h2>操作说明</h2>\n            <div class=\"steps\">\n                <ol>\n                    <li>选择适合您的设备和需求的套餐</li>\n                    <li>下载并安装相应的客户端</li>\n                    <li>启动客户端并登录账号</li>\n                    <li>选择节点并连接加速网络</li>\n                    <li>享受稳定的高速上网体验</li>\n                </ol>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\">\n            <h2>客户端选择</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是龙猫云？</summary>\n                <div>\n                    <p>龙猫云是一款提供VPN加速服务的品牌，专注于网络稳定性和用户体验。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何选择客户端？</summary>\n                <div>\n                    <p>请根据您的设备类型（如Windows、Mac、Android、iOS）选择合适的客户端版本。</p>\n                </div>\n            </details>\n            <details>\n                <summary>客户端安装后如何使用？</summary>\n                <div>\n                    <p>安装完成后，启动客户端，输入您的账号信息，即可连接到VPN节点。</p>\n                </div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div>\n                    <p>客户端支持主流电脑和移动设备。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何获取最新信息？</summary>\n                <div>\n                    <p>建议访问我们的官网获取最新套餐和更新。</p>\n                </div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <div class=\"footer-content\">\n            <p>© 2024 龙猫云. 保留所有权利。</p>\n            <p>友情链接</p>\n            <p>广告位</p>\n            <p>网站地图: <a href=\"#\">查看</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "27034b7b27072bf07a4502359f511e42ad5aa72304526449cb3501513b3de5d2",
+          "seo": {
+            "title": "龙猫云VPN | 机场加速器 客户端下载 | 官网",
+            "keywords": "龙猫云, VPN, 机场, 加速器, 客户端下载, 官网",
+            "description": "龙猫云提供专业的VPN加速服务，包括多种套餐和客户端下载，支持流媒体解锁和网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fsyxs.cn",
+    "host": "a.fsyxs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "fsyxs.cn",
+      "url": "https://fsyxs.cn/",
+      "label": "矢矧网络",
+      "apex": "fsyxs.cn",
+      "kind": null,
+      "identity": "wtpbihbpe/page-320d2c1ee7dea0d608de329b"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fd63791b958745cd1a84ed1df0708e7a59b0c067d8179ec57c89e174ee0e80ca",
+    "sitemap.xml": "3314fd370857f90a2474d822d1ff56aa6cfa705250dba1f09c33c45d434ad124",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e73d5ea809b42f1a19dc03a421a8e3ead5f94e07996c9bf41cfef22cb6edc911",
+    "robots.txt": "cfef00fcfbc6cf5ad3e525df1c2362b4b1f59625c36901a03819e761ca392f93",
+    "fd49d086dbab7dc66f64450eebc20363.txt": "5ac85ef1ca8037faf407c65749540cadc6274fb7a6641fc43eb86e24ddd25176"
+  },
+  "revision": "2818a4f290c4278296e585e70391937d4f0455f0b3873c761052e5fa1a44133b"
+}
